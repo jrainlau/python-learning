@@ -1,0 +1,158 @@
+[
+  {
+    "title": "WTF Wednesday (January 03, 2018)",
+    "link": "/r/javascript/comments/7nvk7v/wtf_wednesday_january_03_2018/",
+    "author": "jeresig",
+    "vote": "10"
+  },
+  {
+    "title": "Upgrading to React 16: \"A 33% speed increase for doing as close to nothing as this profession allows.\"",
+    "link": "https://medium.com/drivetribe-engineering/an-unravelling-tale-of-performance-bonus-round-react-16-f98455fdabe6",
+    "author": "honestbleeps",
+    "vote": "190"
+  },
+  {
+    "title": "Date and time in JavaScript",
+    "link": "https://ayushgp.github.io/date-and-time-in-javascript/",
+    "author": "kenman",
+    "vote": "8"
+  },
+  {
+    "title": "I made an open-source Google Chrome extension to show crypto currencies values with Coinbase API",
+    "link": "/r/javascript/comments/7o1vte/i_made_an_opensource_google_chrome_extension_to/",
+    "author": "TheNumberOneCulprit",
+    "vote": "\u2022"
+  },
+  {
+    "title": "How recent CPU vulnerabilities affect frontend (performance.now() will become less precise & more)",
+    "link": "https://twitter.com/dan_abramov/status/948742752103223297",
+    "author": "AutoModerator",
+    "vote": "8"
+  },
+  {
+    "title": "Comparing Package Managers - Whats the best for you?",
+    "link": "http://jsdiaries.com/2018/01/04/comparing-package-managers-whats-the-best-for-you/",
+    "author": "AutoModerator",
+    "vote": "\u2022"
+  },
+  {
+    "title": "Opinion on JavaScript trends in 2018",
+    "link": "https://medium.com/@dhtmlx/javascript-trends-in-2018-3fb0077259",
+    "author": "SirHound",
+    "vote": "2"
+  },
+  {
+    "title": "Built an SMS bot with Twilio, NodeJS, PhantomJS, Selenium Webdriver and hosted on Heroku. It texts my wife when groceries I like go on sale. Wrote a guide with lots of code examples to jumpstart your own bot project.",
+    "link": "https://medium.com/@davidmieloch/building-a-foodkick-sms-sale-notifier-bot-64106c9de945",
+    "author": "codejitsu",
+    "vote": "363"
+  },
+  {
+    "title": "Designing APIs: use arrays instead of rest parameters (or why _.get(object, ['deep', 'prop']) is better than _.get(object, 'deep', 'prop'))",
+    "link": "https://iamakulov.com/notes/apis-arrays/",
+    "author": "cvpuc",
+    "vote": "18"
+  },
+  {
+    "title": "Hack no: NaN",
+    "link": "/r/javascript/comments/7o0nbe/hack_no_nan/",
+    "author": "iamakulov",
+    "vote": "2"
+  },
+  {
+    "title": "Im new and i have a question",
+    "link": "/r/javascript/comments/7nyabw/im_new_and_i_have_a_question/",
+    "author": "gdmeteor",
+    "vote": "6"
+  },
+  {
+    "title": "ES6 DYNAMIC IMPORT AND WEBPACK MEMORY LEAKS",
+    "link": "https://oprea.rocks/blog/es6-dynamic-import-and-webpack-memory-leaks/",
+    "author": "Mary_js",
+    "vote": "0"
+  },
+  {
+    "title": "Robust Client-Side JavaScript \u2013 A Developer\u2019s Guide",
+    "link": "https://molily.de/robust-javascript/",
+    "author": "drumnation",
+    "vote": "25"
+  },
+  {
+    "title": "How to learn JavaScript start to finish?",
+    "link": "/r/javascript/comments/7nyfoj/how_to_learn_javascript_start_to_finish/",
+    "author": "iamakulov",
+    "vote": "4"
+  },
+  {
+    "title": "Techan.js - a visual, stock charting (Candlestick, OHLC, indicators) and technical analysis library built on D3. Build interactive financial charts for modern and mobile browsers",
+    "link": "http://techanjs.org/",
+    "author": "MasterCommit",
+    "vote": "6"
+  },
+  {
+    "title": "How to stay updated with the Front-End craziness in just 3 repetitive steps.",
+    "link": "https://develoger.com/how-to-stay-updated-with-the-front-end-craziness-in-just-3-repetitive-steps-c2e052a40a06",
+    "author": "Potato_Baked",
+    "vote": "2"
+  },
+  {
+    "title": "My Javascript homework. Due in a few hours. Please help",
+    "link": "https://stackoverflow.com/questions/48093244/simple-javascript-questions-implementing-payment-data-password-testing-checki",
+    "author": "oprearocks",
+    "vote": "\u2022"
+  },
+  {
+    "title": "Noob question: how do I do a list of async actions one at a time?",
+    "link": "/r/javascript/comments/7nvx93/noob_question_how_do_i_do_a_list_of_async_actions/",
+    "author": "speckz",
+    "vote": "6"
+  },
+  {
+    "title": "myPhysicsLab - provides JavaScript classes to build real-time interactive animated physics simulations",
+    "link": "https://github.com/myphysicslab/myphysicslab",
+    "author": "Blerch_The_Destroyer",
+    "vote": "6"
+  },
+  {
+    "title": "Truncatable Primes in JavaScript",
+    "link": "http://raganwald.com/2017/12/14/73939133.html",
+    "author": "magenta_placenta",
+    "vote": "3"
+  },
+  {
+    "title": "Can you spread an array of components in React?",
+    "link": "/r/javascript/comments/7nxb93/can_you_spread_an_array_of_components_in_react/",
+    "author": "develoger",
+    "vote": "2"
+  },
+  {
+    "title": "A 5 minute intro to Workbox 3.0 (alpha)",
+    "link": "https://medium.com/@JoubranJad/a-5-minute-intro-to-workbox-3-0-156803952b3e",
+    "author": "fosibodu",
+    "vote": "7"
+  },
+  {
+    "title": "Is it safe for me to store credit card tokens in cookies? If not - how might I be able to make this more secure?",
+    "link": "/r/javascript/comments/7nsiqf/is_it_safe_for_me_to_store_credit_card_tokens_in/",
+    "author": "JumboJellybean",
+    "vote": "17"
+  },
+  {
+    "title": "The 2018 Roadmap To FullStack Web Development",
+    "link": "https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a",
+    "author": "magenta_placenta",
+    "vote": "1"
+  },
+  {
+    "title": "Is it possible for a layperson to figure out what a script is doing or is supposed to do? When I execute: \"https://s7.addthis.com/js/300/addthis_widget.js\" in the url bar it returns a bunch of (presumably executable) code, how do I analyze/decipher it? (pastebin link inside)",
+    "link": "/r/javascript/comments/7nxcm5/is_it_possible_for_a_layperson_to_figure_out_what/",
+    "author": "homoiconic",
+    "vote": "1"
+  },
+  {
+    "title": "F12 / 'Go-To-Definition' is poorly supported for Javascript in Visual Studio. Is there a better solution?",
+    "link": "/r/javascript/comments/7nu1iz/f12_gotodefinition_is_poorly_supported_for/",
+    "author": "Captain_Kittenface",
+    "vote": "7"
+  }
+]

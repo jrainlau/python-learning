@@ -1,14 +1,16 @@
-L = range(1, 101)
+L = list(range(1, 101))
 
-print L[:10]
-print L[2::3]
-print L[4:50:5]
+print(L[:3])
 
-L = range(1, 101)
-print L[-10:]
-print L[-46::5]
+print(L[-3:])
 
-def firstCharUpper(s):
-    return s[:1].upper() + s[1:]
+def trim(str = ''):
+  if len(str) == 0:
+    return ''
+  if str[0] == ' ':
+    str = str[1: ]
+  if str[-1] == ' ':
+    str = str[: -1]
+  return str
 
-print firstCharUpper('hello')
+print(trim(' Hello World '))
